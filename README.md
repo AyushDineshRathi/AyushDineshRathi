@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ayush Rathi</h1>
+<h3 align="center">A passionate AI/ML Developer from India</h3>
+
 # 💫 About Me:
 🌟 A passionate AI/ML developer, who never stops learning.<br>📚 Currently pursuing BTech. CSE at IIIT Jabalpur<br>🔭 I’m currently working on projects related to RNNs.<br>👯 I’m looking to collaborate with people working on Deep Learning.<br>🌱 I’m currently learning LLMs and RNN.
 
@@ -13,8 +16,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushDineshRathi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushDineshRathi&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushDineshRathi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width = "400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushDineshRathi&theme=dark&hide_border=false" alt="GitHub Streak Stats" width = "400"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDineshRathi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
